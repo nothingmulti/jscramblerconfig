@@ -1,0 +1,16 @@
+[
+  {
+    "keys": {
+      "accessKey": "EA14E3671B1C3679ED678D190C4DEB54DECEBDD6",
+      "secretKey": "9A7C8827E2936DE916C768FA4EF490AE933474C0"
+    },
+    "applicationId": "6718d035eb65b0eb2c45b2dd"
+  },
+  {
+    "keys": {
+      "accessKey": "B214E8D1B7E2D1234F9C7D5910AF2B54ACDBEEAB",
+      "secretKey": "A93B8A2936AE7D68EA8D4F0AF7E39DCE9374ABC0"
+    },
+    "applicationId": "abc8d123ef65b0eb3d75c3aa"
+  }
+]
